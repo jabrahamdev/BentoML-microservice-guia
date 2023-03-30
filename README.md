@@ -1,5 +1,5 @@
 # Microservicio de un modelo de Machine Learning con BentoML
-Por [Abraham F](https://github.com/jabrahamdev)
+Por [J. Abraham](https://github.com/jabrahamdev)
 
 ![](/attachments/bentoml-readme-header.jpeg)
 
