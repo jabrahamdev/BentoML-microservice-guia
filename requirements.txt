@@ -1,0 +1,6 @@
+joblib
+jupyterlab
+numpy
+bentoml
+tensorflow
+scikit-learn

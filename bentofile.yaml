@@ -1,0 +1,10 @@
+service: "service:svc"  # El mismo que el argumento pasado a `bentoml serve`
+labels:
+   owner: bentoml-team
+   stage: dev
+include:
+- "*.py"  # Un patrón para definir que archivos incluir en el Bento
+python:
+   packages:  # Paquetes adicionales requeridos por el servicio
+   - scikit-learn
+   - pandas
