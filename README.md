@@ -183,7 +183,7 @@ _
 ```
 
 
-En esta línea, `await runner.predict.async_run(input_series)` es la instrucción que está haciendo la predicción, recibe el array de los 4 datos sobre los que se va a hacer la predicción y regresa un array de 3 elementos correspondientes a la probabilidades de que la flor sea setosa, virginica o versicolor.
+En esta línea, `await runner.predict.async_run(input_series)` es la instrucción que está haciendo la predicción, recibe el array de los 4 datos sobre los que se va a hacer la predicción y regresa un array de 3 elementos correspondientes a las probabilidades de que la flor sea setosa, virginica o versicolor.
 
 `np.argmax(await runner.predict.async_run(input_series), axis=-1)[0]` regresa **el índice del valor con la mayor probabilidad**
 
@@ -206,7 +206,7 @@ bentoml serve service:svc --reload
 ```
 
 
-Este comando utiliza el archivo `service.py`, incluido en este repo para echar a andar el servicio, es importante que se encuentre en la raíz de tu directorio."
+Este comando utiliza el archivo `service.py`, incluido en este repo para echar a andar el servicio, es importante que se encuentre en la raíz de tu directorio.
 
 
 
