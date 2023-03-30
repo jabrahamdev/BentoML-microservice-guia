@@ -250,10 +250,11 @@ Copia alguno de los array en el área blanca y presiona `Execute`
 
 ![](/attachments/cap_iris7.png)
 
-## Excelente! :nerd_face:
+### Excelente! :nerd_face:
 
 
-No estás convencid@? Prueba con otro de los ejemplos, el tercero del que se sabe la flor es 'virginica' `[[6.7, 3.0, 5.2, 2.3]]` 
+No estás convencid@? 
+Prueba con otro de los ejemplos, el tercero del que se sabe la flor es 'virginica' `[[6.7, 3.0, 5.2, 2.3]]` 
 
 ![](/attachments/cap_iris9.png)
 
