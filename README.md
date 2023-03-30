@@ -260,6 +260,8 @@ Prueba con otro de los ejemplos, el tercero del que se sabe la flor es 'virginic
 
 ![](/attachments/cap_iris10.png)
 
+![](/attachments/cap_iris17.png)
+
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWUxOTNkYjgyMzY4MmUyODlkMGNlMjZhMzMxMWNiZTg3NDVlYjYwYyZjdD1n/Onz7Kbh3TlY6GVHp2q/giphy.gif)
 
 
