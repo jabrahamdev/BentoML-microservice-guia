@@ -197,6 +197,7 @@ _
 ```
 
 Estas dos líneas regresan el string correspondiente al índice `class_ind` obtenido con la línea previa. Por ejemplo, si el índice con la mayor probabilidad (valor) es el '0' entonces el string regresado serà 'setosa', si es '1' regresará 'versicolor' y si es 2 regresará 'virginica'.
+
 __
 
 
