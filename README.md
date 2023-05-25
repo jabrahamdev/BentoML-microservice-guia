@@ -1,9 +1,10 @@
-# Microservicio de un modelo de Machine Learning con BentoML
-Por [J. Abraham](https://github.com/jabrahamdev)
+# ¿Cómo crear un microservicio (API) de un modelo de Machine Learning?
+
+## Guía para poner en marcha un modelo de Machine Learning en producción con BentoML, una alternativa a Flask y FastAPI.
+Por [J. Abraham](https://www.linkedin.com/in/jabrahamdev/)
 
 ![](/attachments/bentoml-readme-header.jpeg)
 
-## La guía más concisa para poner en marcha un modelo de Machine Learning en producción con BentoML.
 
 De acuerdo con el sitio de la herramienta: 
 
